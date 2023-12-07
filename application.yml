@@ -1,4 +1,4 @@
-
+name:pankaj
 eureka:
   instance:
     prefer-ip-address: true
